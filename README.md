@@ -6,7 +6,7 @@ I’m interested in AI/ML/DL, Blockchain
 
 💞️ Learning all about Open Source
 
-📫 How reach me - imnaveed092@gmail.com
+📫 How reach me - imnaveed000@gmail.com
 
 ⚙️ I use daily: .py, vscode, flask, aws, sagemaker
 
