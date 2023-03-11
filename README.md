@@ -2,6 +2,8 @@
 - 
 I’m interested in AI/ML/DL, Blockchain
 
+🌱 I’m currently working on Machine Learnring, NLP, MLOps Tools (MLFLOW, DVC), PyTorch.
+
 🌱 Area of working Deep Learning, Computer Vision
 
 💞️ Learning all about Open Source
@@ -13,6 +15,9 @@ I’m interested in AI/ML/DL, Blockchain
 ⚡️ Fun fact: I'm a huge fan of F1
 
 💬 ask me about anything, i am happy to help;
+
+LANGUAGES AND TOOLS
+Python
 
 <!---
 A passionate self-taught Data Scientist from india. my passion for AI/ML lies with dreaming up ideas and making them come true with elegant interfaces.
