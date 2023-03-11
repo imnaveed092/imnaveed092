@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @imnaveed092
-- 
 <h1 align="center">Hi 👋, I'm Naveed ansari</h1>
 <h3 align="center">Data Scientist || Machine Learning || Deep Learning || NLP || Time Series Analysis</h3>
 
