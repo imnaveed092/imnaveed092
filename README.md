@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imnaveed092" alt="imnaveed092" /></a> </p> -->
 
-- 🔭 I’m currently working on **Machine Learnring, NLP, MLOps Tools (MLFLOW, DVC), PyTorch.**
+- 🔭 I’m currently working on **Generative AI,Machine Learnring, NLP, MLOps Tools (MLFLOW, DVC), PyTorch.**
 
 - 🌱 I’m currently learning **Deep Learning, Computer Vision**
 
